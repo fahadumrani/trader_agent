@@ -1,0 +1,17 @@
+{
+  "updated_at": "2026-09-09T14:36:59.530099+00:00",
+  "branch": "main",
+  "files": [
+    "market_BTC_USD_5m.csv",
+    "market_ETH_USD_5m.csv",
+    "market_SOL_USD_5m.csv",
+    "model_BTC_USD.json",
+    "model_ETH_USD.json",
+    "model_SOL_USD.json",
+    "sentinel_equity.csv",
+    "sentinel_report.png",
+    "sentinel_signals.csv",
+    "sentinel_state.json"
+  ],
+  "failed_this_sync": []
+}
